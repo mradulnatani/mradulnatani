@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mradulnatani
-- 👀 I’m interested in DSA using c++ and FrontEnd webdev projects
+- 👀 I’m exploring the field of blockchain and having some good hands on next.js
 - 🌱 I’m currently learning Javascript and practising DSA using c++
 - 💞️ I’m looking to collaborate in projects including c++,react and bootstrap
 - 📫 You can reach me via my gmailid -> mradulnatani0@gmail.com
