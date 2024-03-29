@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mradulnatani&show_icons=true&locale=en" alt="mradulnatani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mradulnatani&" alt="mradulnatani" /></p>
+<img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mauriciobraz/mauriciobraz/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
