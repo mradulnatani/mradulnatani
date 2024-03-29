@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mradul Natani</h1>
 <h3 align="center">I'm a software developer with a strong interest in web development and blockchain technology. I have experience in Next.js, Node.js, React.js, and Solidity, and I'm also proficient in Data Structures and Algorithms with C++ and Java.</h3>
 
+- ⚙️ I use daily: .tsx, .js, .ts, .css, .ai
+  
 - 🌱 I’m currently learning **Solidity and more things in blockchain**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **UI/UX, ai, systems, react, development**
 
 - 📫 How to reach me **mradulnatani0@gmail.com**
 
