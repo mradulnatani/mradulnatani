@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mradulnatani" alt="mradulnatani" /></a> </p>
 - ⚙️ I use daily: .tsx, .js, .ts, .css, .ai
   
-- 🌱 I’m currently learning **Solidity and more things in blockchain**
+- 🌱 I’m currently learning **Solidity and backend development**
 
-- 💬 Ask me about **UI/UX, ai, systems, react, development**
+- 💬 Ask me about **UI/UX, Node.js, react, development**
 
 - 📫 How to reach me **mradulnatani0@gmail.com**
 
