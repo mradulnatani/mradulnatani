@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mradul Natani</h1>
 <h3 align="center">I do full stack web development and D-app development.</h3>
 
-
+<hr/>
 - ⚙️ I use daily: .jsx, .js, .ts, .css, .ai, .sol
 
 - 💬 Ask me about **UI/UX, Node.js, react, development**
