@@ -4,11 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulnatani&label=Profile%20views&color=0e75b6&style=flat" alt="mradulnatani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mradulnatani" alt="mradulnatani" /></a> </p>
-- ⚙️ I use daily: .jsx, .js, .ts, .css, .ai
-
-- 🔭 I’m currently working on CRUD-app and Lottery-Dapp
-  
-- 🌱 I’m currently learning **Solidity and backend development**
+- ⚙️ I use daily: .jsx, .js, .ts, .css, .ai, .sol
 
 - 💬 Ask me about **UI/UX, Node.js, react, development**
 
