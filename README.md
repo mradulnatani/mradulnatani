@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mradul Natani</h1>
-<h3 align="center">I'm a software developer with a strong interest in web development and blockchain technology. I have experience in Next.js, Node.js, React.js, and Solidity, and I'm also proficient in Data Structures and Algorithms with C++ and Java.</h3>
+<h3 align="center">I do full stack web development and D-app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulnatani&label=Profile%20views&color=0e75b6&style=flat" alt="mradulnatani" /> </p>
 
