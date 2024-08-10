@@ -5,7 +5,7 @@
 <hr/>
 - ⚙️ I use daily: .jsx, .js, .ts, .css, .ai, .sol
 
-- 💬 Ask me about **Node.js, react, web development and D-app development**
+- 💬 Ask me about **Node.js, react, Next.js and D-app development**
 
 - 📫 How to reach me **mradulnatani0@gmail.com**
 
