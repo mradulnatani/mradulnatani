@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mradul Natani</h1>
-<h2> <a href="https://mradulnatani.github.io/My-website/">Visit my Portfolio Site</a></h2>
+<h2> <a href="https://mradulnatani.github.io/My-website/">Click here to visit my website</a></h2>
 <h3 align="center">I do full stack web development and D-app development.</h3>
 
 <hr/>
