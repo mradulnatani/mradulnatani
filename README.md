@@ -3,7 +3,7 @@
 <h3 align="center">I do full stack web development and D-app development.</h3>
 
 <hr/>
-- ⚙️ I use daily: .jsx, .js, .ts, .css, .ai, .sol
+- ⚙️ I use daily: .jsx, .js, .ts, .css, .ai, .sol,.c
 
 - 💬 Ask me about **Node.js, react, Next.js and D-app development**
 
