@@ -1,13 +1,11 @@
-<h3 align="center">I do full stack web development and D-app development.</h3>
-<h4> <a href="https://java-hater.vercel.app">Click here to visit my website</a></h4>
+<h3>Full Stack Web & D-App Developer</h3>
+
+<p><a href="https://java-hater.vercel.app">Visit my website</a></p>
 
 <hr/>
-- ⚙️ I use daily: .jsx, .js, .ts, .css, .ai, .sol,.c
 
-
-
-
-
-
-
-
+<p>Technologies I Use:</p>
+<ul>
+  <li>.jsx, .js, .ts, .css</li>
+  <li>.ai, .sol, .c</li>
+</ul>
