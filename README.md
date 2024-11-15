@@ -1,5 +1,5 @@
 ```yml
-langs: ts/py/c/js
+langs: ts/py/c/js/sol
 ```
 
 <div align="center">
