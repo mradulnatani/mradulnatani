@@ -1,7 +1,7 @@
 ```yml
 langs: ts/py/c/js/sol
 ```
-<p><a href="https://java-hater.vercel.app">Visit my website</a></p>
+<p><a href="https://ihatejava.vercel.app">Visit my website</a></p>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake-dark.svg">
