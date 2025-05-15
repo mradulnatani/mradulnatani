@@ -63,7 +63,6 @@
 
 </pre>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mradulnatani&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mradulnatani&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+\
+<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mradulnatani&theme=github_dark)
