@@ -16,7 +16,7 @@
 
 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,go,python,js,ts,git,aws,docker,kubernetes,nginx,postgres,mysql,redis,anaconda,ansible,arch,django,figma,flask,gcp,git,go,grafana,jenkins,linux,neovim,mysql,nextjs,nix,npm,pnpm,powershell,py,react,redis,solidiy,terraform,tailwind,ubuntu,vim,vue,wordpress" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,go,python,js,ts,git,aws,docker,kubernetes,nginx,postgres,mysql,redis,anaconda,ansible,arch,django,figma,flask,gcp,go,grafana,jenkins,linux,neovim,mysql,nextjs,nix,npm,pnpm,powershell,py,react,redis,solidiy,terraform,tailwind,ubuntu,vim,vue,wordpress" />
 </p>
 
   
