@@ -1,6 +1,5 @@
 <pre>
 
-<img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif" alt="Coder GIF" width="800" height="600" align="center">
 
   
   ___   _      ___   _      ___   _      ___   _      ___   _
@@ -13,12 +12,6 @@
                         [(_)] |=|    [(_)] |=|    [(_)] |=|
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /dev/        /ops/        /mech/
-
-
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,go,python,js,ts,git,aws,docker,kubernetes,nginx,postgres,mysql,ansible,django,figma,flask,gcp,go,grafana,jenkins,linux,neovim,nextjs,nix,npm,pnpm,py,react,redis,solidiy,terraform,tailwind,vim,vue,wordpress" />
-</p>
-
   
 ┌──┤ WHOAMI ├──────────────▰▰▰
 │
