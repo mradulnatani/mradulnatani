@@ -1,5 +1,5 @@
 ```txt
-          .               RFD@nyarch
+          .               mradul@nyarch
          / \
         /   \             ⚙️  Arch Linux x86_64
        /\    \            🐉  Linux 6.14.5-arch1-1
