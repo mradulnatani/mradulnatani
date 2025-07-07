@@ -7,7 +7,7 @@
      /         \          🐟  Pet_1 -  alacritty
     /    .-.    \         🐈  Pet_2 - kitty 0.41.1
    /    |   |   _\        ◻️  FavWindow - Neovim
-  /   _.'   '._   \       ⏳  Uptime - 20 years
+  /   _.'   '._   \       ⏳  Uptime - 21 years
  /_.-'         '-._\
 
 ```
