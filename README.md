@@ -11,3 +11,4 @@
  /_.-'         '-._\
 
 ```
+[![AWS Cloud Club Core Team](https://raw.githubusercontent.com/mradulnatani/mradulnatani/main/aws-cloud-club-core-team.png)](https://www.credly.com/badges/1ef51ccb-d294-4eb6-959d-da71cc963261/public_url)
